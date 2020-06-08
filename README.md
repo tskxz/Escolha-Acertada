@@ -3,6 +3,7 @@ Webscrapping with bs4 (Beautiful Soup) in python. Get the property info to an da
 
 ## Website 
 https://www.escolhaacertada.pt/
+![](https://cdn.discordapp.com/attachments/688091927085580312/719504640076546048/Screenshot_from_2020-06-08_11-54-07.png)
 
 ## DataFrame
 ![IMAGE](https://cdn.discordapp.com/attachments/697056555421532239/717662283828035594/Screenshot_from_2020-06-03_09-53-07.png)
