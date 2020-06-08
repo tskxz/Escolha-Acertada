@@ -1,0 +1,419 @@
+,Imóvel,Preço,Quartos,Área,Casas de banhos
+0,Escritório Matosinhos,Arrendamento 350 €,1 ,45 m2 ,- 
+1,Escritório Porto Boavista,Arrendamento 370 €,1 ,40 m2 ,- 
+2,Escritório junto ao Covelo,Arrendamento 500 €,1 ,73 m2 ,- 
+3,LOJA COM TERRAÇO REMODELADA PADRÃO DA LEGUA,Arrendamento 550 €,3 ,110 m2 ,- 
+4,Café nos Altos,Arrendamento 575 €,1 ,53 m2 ,- 
+5,T1 lavra condominio fechado junto a praia,Arrendamento para férias 650 €,5 ,65 m2 ,- 
+6,T1 duplex Rua da Restauração,Arrendamento 650 €,1 ,60 m2 ,1 
+7,T1+1 com varanda rua da Cedofeita,Arrendamento 825 €,1 ,100 m2 ,- 
+8,T3 Matosinhos Centro,Arrendamento 850 €,1 ,100 m2 ,- 
+9,T1 à Rotunda Boavista,Arrendamento 1.200 €,0 ,62 m2 ,- 
+10,Loja com duas frentes com espaço exterior próxima Av. Boavista,Arrendamento 1.450 €,2 ,173 m2 ,- 
+11,Escritório Montes Burgos,Arrendamento 1.500 €,2 ,200 m2 ,- 
+12,Loja ou Armazém Porto Carolina Michaelis,Arrendamento 1.550 €,2 ,240 m2 ,- 
+13,Loja Centro Matosinhos,Arrendamento 1.800 €,1 ,180 m2 ,- 
+14,Armazém -Leça do Balio saida da Via Norte,Arrendamento 2.150 €,2 ,785 m2 ,- 
+15,Arrendamento Armazém,Arrendamento 2.500 €,2 ,690 m2 ,- 
+16,Escritório Zona Industrial Porto,Arrendamento 2.550 €,0 ,167 m2 ,- 
+17,Terreno com 9950 m2 São Mamede de Infesta,Arrendamento 3.200 €,0 ,- ,- 
+18,Excelente Moradia V5 Leça do Balio,Arrendamento 3.200 €,1 ,305 m2 ,- 
+19,Escritório zona Industrial Porto,Arrendamento 4.350 €,2 ,294 m2 ,- 
+20,Arrendamento Terreno,Arrendamento 5.000 €,0 ,1.000 m2 ,- 
+21,Lugar de Garagem Lordelo do Ouro,Venda 5.000 €,1 ,11 m2 ,- 
+22,Escritório Porto Zona industrial,Arrendamento 9.750 €,1 ,603 m2 ,- 
+23,Loja centro da Maia,Venda 10.000 €,2 ,9 m2 ,- 
+24,Lugar aparcamento Porto,Venda 11.000 €,2 ,14 m2 ,- 
+25,Escritório de 2 pisos Paranhos,Arrendamento 12.850 €,1 ,2.335 m2 ,- 
+26,T1 Vila Nova de Gaia,Venda 13.000 €,2 ,74 m2 ,- 
+27,Lugar de aparcamento Porto,Venda 14.000 €,1 ,38 m2 ,- 
+28,Venda Escritório,Venda 15.000 €,2 ,33 m2 ,- 
+29,Arrecadação Aldoar,Venda 16.000 €,1 ,15 m2 ,- 
+30,Garagem Águas Santas,Venda 17.500 €,1 ,40 m2 ,- 
+31,Loja Maia Centro,Venda 19.500 €,2 ,13 m2 ,- 
+32,Loja Águas Santas,Venda 26.000 €,2 ,39 m2 ,- 
+33,Loja / Escritório no Telheiro - S. Mamede Infesta,Venda 28.000 €,2 ,30 m2 ,- 
+34,Loja Valongo,Venda 28.000 €,3 ,63 m2 ,- 
+35,Loja Valongo,Venda 29.000 €,2 ,52 m2 ,- 
+36,Loja Valongo,Venda 29.000 €,0 ,63 m2 ,- 
+37,Loja ou escritório proximo Aeroporto,Venda 30.000 €,2 ,35 m2 ,- 
+38,Parqueamento Aldoar,Venda 32.000 €,5 ,13 m2 ,- 
+39,Loja/Escritório em S. Mamede,Venda 33.000 €,3 ,39 m2 ,- 
+40,Loja Valongo,Venda 34.000 €,2 ,73 m2 ,- 
+41,Venda Quinta/Herdade T1,Venda 35.000 €,2 ,4.000 m2 ,- 
+42,Escritório Matosinhos Centro,Venda 35.000 €,3 ,25 m2 ,- 
+43,Loja Valongo,Venda 36.000 €,2 ,78 m2 ,- 
+44,Loja Póvoa de Varzim próximo ao centro,Venda 37.000 €,2 ,59 m2 ,- 
+45,Loja com dois pisos Bonfim,Venda 40.000 €,0 ,149 m2 ,- 
+46,Loja Valongo,Venda 41.400 €,2 ,57 m2 ,- 
+47,"Terreno Sobrado, Valongo",Venda 42.000 €,2 ,6.100 m2 ,- 
+48,Escritório junto ao Aeroporto,Venda 43.000 €,3 ,85 m2 ,- 
+49,Venda Terreno,Venda 45.000 €,2 ,462 m2 ,- 
+50,Restaurante totalmente equipado em centro comercial,Venda 45.000 €,1 ,75 m2 ,- 
+51,Loja Porto,Venda 46.000 €,0 ,33 m2 ,- 
+52,Loja em Moreira da Maia,Venda 47.000 €,0 ,59 m2 ,- 
+53,Loja Valongo,Venda 47.200 €,0 ,66 m2 ,- 
+54,Conjunto de duas lojas Lordelo do Ouro,Venda 47.200 €,0 ,70 m2 ,- 
+55,Escritório Matosinhos Centro,Venda 47.250 €,1 ,40 m2 ,- 
+56,Loja com lugares de garagem,Venda 47.400 €,3 ,124 m2 ,- 
+57,Terreno Nogueira,Venda 48.000 €,0 ,328 m2 ,- 
+58,Escritório Matosinhos Centro,Venda 48.900 €,3 ,57 m2 ,- 
+59,Loja Valongo,Venda 49.500 €,1 ,70 m2 ,- 
+60,Lote de Terreno Foz do Sousa,Venda 49.500 €,3 ,300 m2 ,- 
+61,Loja / escritório proximo amial,Venda 50.000 €,2 ,60 m2 ,- 
+62,Terreno São Pedro da Cova,Venda 50.000 €,3 ,25.000 m2 ,- 
+63,Escritório Av. Boavista,Venda 52.000 €,3 ,37 m2 ,- 
+64,Loja com grandes montras Leça do Balio,Venda 55.000 €,3 ,74 m2 ,- 
+65,Escritório Av. Boavista,Venda 55.000 €,2 ,39 m2 ,- 
+66,Terreno para Moradia Leça do Balio,Venda 55.000 €,3 ,164 m2 ,- 
+67,Terreno - Baguim do Monte,Venda 55.000 €,2 ,224 m2 ,- 
+68,Terreno - Baguim do Monte,Venda 55.000 €,3 ,222 m2 ,- 
+69,Terreno - Baguim do Monte,Venda 55.000 €,3 ,230 m2 ,- 
+70,Terreno - Baguim do Monte,Venda 55.000 €,3 ,240 m2 ,- 
+71,Terreno - Baguim do Monte,Venda 55.000 €,2 ,254 m2 ,- 
+72,Terreno - Baguim do Monte,Venda 55.000 €,3 ,279 m2 ,- 
+73,Terreno - Baguim do Monte,Venda 55.000 €,3 ,284 m2 ,- 
+74,Terreno - Baguim do Monte,Venda 55.000 €,3 ,287 m2 ,- 
+75,Terreno - Baguim do Monte,Venda 55.000 €,2 ,289 m2 ,- 
+76,Terreno - Baguim do Monte,Venda 55.000 €,1 ,292 m2 ,1 
+77,Terreno - Baguim do Monte,Venda 55.000 €,3 ,296 m2 ,- 
+78,Terreno - Baguim do Monte,Venda 55.000 €,2 ,332 m2 ,- 
+79,"Escritório Varziela, Fajozes",Venda 56.500 €,4 ,81 m2 ,- 
+80,Escritório Av. Boavista,Venda 57.000 €,3 ,37 m2 ,- 
+81,Armazém para retém Maia,Venda 58.000 €,3 ,139 m2 ,- 
+82,Loja para restauração Lavra,Venda 58.300 €,1 ,88 m2 ,- 
+83,Escritório Av. Boavista,Venda 59.000 €,2 ,42 m2 ,- 
+84,Loja Valongo,Venda 59.500 €,4 ,85 m2 ,- 
+85,Venda Terreno,Venda 60.000 €,4 ,300 m2 ,- 
+86,Escritório Porto Boavista,Venda 60.000 €,5 ,40 m2 ,2 
+87,Loja Porto,Venda 62.000 €,3 ,64 m2 ,1 
+88,Venda Terreno,Venda 65.000 €,3 ,108 m2 ,- 
+89,Escritório Av. Boavista,Venda 65.000 €,2 ,46 m2 ,- 
+90,Loja Lordelo do Ouro,Venda 65.000 €,3 ,85 m2 ,- 
+91,Escritório Porto,Venda 65.000 €,3 ,45 m2 ,- 
+92,Loja com aparcamento Águas Santas,Venda 66.000 €,4 ,99 m2 ,- 
+93,Loja para restauração centro,Venda 66.000 €,4 ,110 m2 ,- 
+94,Escritório Av. Boavista,Venda 66.000 €,2 ,47 m2 ,1 
+95,Escritório Av. Boavista,Venda 66.000 €,2 ,47 m2 ,- 
+96,Restaurante para trepasse Porto Rotunda Boavista,Venda 66.000 €,1 ,100 m2 ,- 
+97,Loja com terraço próxima metro,Venda 66.750 €,3 ,126 m2 ,- 
+98,Terreno em s. Cosme,Venda 67.000 €,2 ,2.200 m2 ,- 
+99,"Escritório com lugar de garagem Varziela, Fajozes",Venda 67.500 €,1 ,97 m2 ,- 
+100,"Escritório com lugar de garagem Varziela, Fajozes",Venda 67.500 €,3 ,97 m2 ,- 
+101,Terreno Leça do Balio,Venda 69.000 €,3 ,230 m2 ,- 
+102,"Terreno Campo, Valongo",Venda 69.000 €,3 ,23.000 m2 ,- 
+103,Escritório Av. Boavista,Venda 69.000 €,4 ,49 m2 ,- 
+104,Loja Campanhã,Venda 69.500 €,3 ,115 m2 ,- 
+105,Venda Terreno,Venda 70.000 €,4 ,225 m2 ,- 
+106,Venda Terreno,Venda 70.000 €,3 ,600 m2 ,- 
+107,Loja no Padrão da Légua,Venda 70.000 €,3 ,122 m2 ,- 
+108,Terreno para construção de moradia em Moreira,Venda 70.000 €,3 ,198 m2 ,- 
+109,Terreno Vila Nova da Telha,Venda 70.000 €,5 ,370 m2 ,- 
+110,Escritório com terraço Varziela,Venda 71.500 €,3 ,94 m2 ,- 
+111,T1 Valongo,Venda 71.500 €,2 ,70 m2 ,- 
+112,Restaurante Maia Centro,Trespasse 72.500 €,2 ,150 m2 ,- 
+113,Loja Leça da Palmeira,Venda 73.700 €,5 ,74 m2 ,- 
+114,Loja Leça do Balio,Venda 74.500 €,4 ,300 m2 ,1 
+115,Venda Terreno,Venda 75.000 €,2 ,200 m2 ,- 
+116,Estúdio Matosinhos,Venda 75.000 €,4 ,35 m2 ,- 
+117,Terreno - Moradia Custoias,Venda 75.000 €,2 ,250 m2 ,- 
+118,Moradia T2 Sobrado,Venda 75.000 €,3 ,41 m2 ,- 
+119,Loja Porto,Venda 77.000 €,3 ,90 m2 ,- 
+120,Loja junto a Arca d’água,Venda 77.000 €,3 ,54 m2 ,- 
+121,Loja com alvará de Cafetaria nos Altos,Venda 77.500 €,5 ,53 m2 ,- 
+122,"Loja na Maia, próxima ao centro",Venda 78.000 €,3 ,88 m2 ,1 
+123,Venda Terreno,Venda 80.000 €,4 ,352 m2 ,- 
+124,Armazém Leça do Balio,Venda 80.000 €,4 ,300 m2 ,- 
+125,Venda Terreno,Venda 80.000 €,4 ,333 m2 ,- 
+126,"Terreno Moreira, Maia",Venda 82.000 €,4 ,250 m2 ,- 
+127,T2 Vilar do Pinheiro,Venda 82.000 €,3 ,90 m2 ,- 
+128,Escritório Av. Boavista,Venda 83.000 €,3 ,59 m2 ,- 
+129,Loja junto á Areosa,Venda 85.500 €,4 ,94 m2 ,- 
+130,"T2 Susão, Valongo - Renovado",Venda 87.000 €,4 ,76 m2 ,1 
+131,Escritório próximo aeroporto,Venda 88.000 €,2 ,135 m2 ,- 
+132,Escritório Perafita,Venda 88.000 €,3 ,208 m2 ,- 
+133,Loja Maia,Venda 89.100 €,4 ,130 m2 ,- 
+134,Terreno Avilhó,Venda 90.000 €,5 ,210 m2 ,- 
+135,"Terreno Milheiros, Maia",Venda 90.000 €,4 ,845 m2 ,1 
+136,Terreno Custóias,Venda 90.000 €,3 ,462 m2 ,- 
+137,"Terreno em  Susão, Junto ao estadio",Venda 90.000 €,3 ,5.841 m2 ,2 
+138,T1 open space Maia,Venda 92.000 €,5 ,50 m2 ,- 
+139,Venda Terreno,Venda 92.500 €,3 ,0 m2 ,- 
+140,Mini Mercado em Custóias,Venda 92.500 €,3 ,1 m2 ,- 
+141,T2 Póvoa do Varzim,Venda 94.000 €,4 ,100 m2 ,- 
+142,Loja em Ramalde,Venda 94.500 €,4 ,63 m2 ,- 
+143,Terreno para moradia de 3 frentes em V. N. Telha,Venda 95.000 €,4 ,413 m2 ,1 
+144,Escritório Matosinhos,Venda 95.000 €,0 ,95 m2 ,1 
+145,Escritório em Ermesinde,Venda 95.000 €,4 ,197 m2 ,2 
+146,Terreno Custóias,Venda 97.000 €,3 ,289 m2 ,1 
+147,Terreno Cidade da Maia,Venda 97.500 €,4 ,374 m2 ,- 
+148,Terreno Águas Santas,Venda 100.000 €,5 ,600 m2 ,- 
+149,T2+1 Alto de Valongo,Venda 100.000 €,4 ,85 m2 ,- 
+150,Lote de Terreno para 2 Moradias,Venda 100.850 €,5 ,590 m2 ,- 
+151,Loja Leça da Palmeira,Venda 105.000 €,5 ,101 m2 ,- 
+152,Loja para restauração,Venda 106.000 €,4 ,207 m2 ,- 
+153,armazém Porto centro,Venda 107.000 €,5 ,210 m2 ,- 
+154,T0 Porto constituição,Venda 107.500 €,5 ,40 m2 ,- 
+155,T0 Porto ao Via Catarina,Venda 107.500 €,4 ,33 m2 ,1 
+156,Venda Terreno,Venda 110.000 €,5 ,1.000 m2 ,2 
+157,Terreno na Cidade da Maia,Venda 110.000 €,4 ,522 m2 ,- 
+158,"T1+1 S. Mamede, Junto às Finanças",Venda 110.000 €,5 ,65 m2 ,- 
+159,T2 Centro Gondomar,Venda 110.000 €,,60 m2 ,- 
+160,T0 -Novo - Matosinhos Praia,Venda 114.900 €,,32 m2 ,- 
+161,Escritório em centro empresarial Maia,Venda 116.000 €,,119 m2 ,- 
+162,Venda comjunta de duas lojas,Venda 118.000 €,,134 m2 ,- 
+163,"Terreno Moreira, Maia",Venda 120.000 €,,365 m2 ,- 
+164,T1 Pedrouços,Venda 120.000 €,,72 m2 ,- 
+165,T1 Kitchenette Centro do Porto,Venda 123.500 €,,41 m2 ,1 
+166,"T2+1 Custoias, Mobilado e Equipado",Venda 125.000 €,,72 m2 ,- 
+167,Terreno - Moradia Custoias,Venda 125.000 €,,480 m2 ,1 
+168,T2 Nogueira Remodelado,Venda 125.000 €,,82 m2 ,- 
+169,"Armazém Lousado, Vila Nova de Famalicão",Venda 126.000 €,,540 m2 ,1 
+170,T1 com Terraço Matosinhos,Venda 127.000 €,,54 m2 ,1 
+171,T2 junto ao centro da Cidade da Maia.,Venda 127.000 €,,80 m2 ,- 
+172,T1 - Leça da Palmeida,Venda 129.000 €,,49 m2 ,- 
+173,T2+1 Ponte da Pedra,Venda 130.000 €,,94 m2 ,1 
+174,T1 novos Árvore Vila de Conde,Venda 131.000 €,,60 m2 ,1 
+175,Escritorio Bonfim junto ao metro,Venda 131.300 €,,147 m2 ,- 
+176,T1 Labruge Vistas de mar,Venda 133.000 €,,65 m2 ,- 
+177,Loja em Campanhã,Venda 134.000 €,,309 m2 ,- 
+178,T2 Nogueira - Maia,Venda 135.000 €,,97 m2 ,- 
+179,Moradia V2 remodelada Rio Tinto,Venda 135.000 €,,41 m2 ,2 
+180,T2+2 Porto centro com terraço,Venda 135.000 €,,116 m2 ,2 
+181,Escritório Porto,Venda 136.500 €,,96 m2 ,- 
+182,T3 Ermesinde - Centro,Venda 137.500 €,,113 m2 ,2 
+183,Escritório Porto,Venda 138.000 €,,71 m2 ,1 
+184,T2 com terraço Constituição,Venda 139.500 €,,79 m2 ,2 
+185,T0 Novo Matosinhos,Venda 140.000 €,,38 m2 ,- 
+186,T2 Ramalde,Venda 140.000 €,,70 m2 ,- 
+187,Moradia Maia Centro,Venda 140.000 €,,140 m2 ,2 
+188,Escritório Porto em edificio de referencia,Venda 143.850 €,,89 m2 ,- 
+189,T3 Rio Tinto Renovado,Venda 144.900 €,,100 m2 ,- 
+190,T2 Recuado Póvoa de Varzim,Venda 145.000 €,,65 m2 ,- 
+191,T2+1 São Mamede Infesta,Venda 145.000 €,,97 m2 ,- 
+192,T3 Águas Santas,Venda 147.500 €,,124 m2 ,- 
+193,Venda Terreno,Venda 150.000 €,,600 m2 ,- 
+194,Loja para restauração Porto Centro,Venda 150.000 €,,143 m2 ,- 
+195,Moradia Térrea V2 Maia,Venda 150.000 €,,81 m2 ,- 
+196,"T2 Ermesinde, Santa Rita - Novo",Venda 154.800 €,,80 m2 ,- 
+197,T0 Novo Matosinhos,Venda 155.000 €,,40 m2 ,- 
+198,T2 renovado Sra da Hora junto ao metro,Venda 155.000 €,,84 m2 ,- 
+199,T2 Renovado Montes Burgos,Venda 155.000 €,,88 m2 ,- 
+200,T3 Águas Santas com lugar garagem,Venda 155.900 €,,125 m2 ,- 
+201,Moradia V2 Boavista,Venda 157.500 €,,69 m2 ,- 
+202,T1 Porto - Sta. Catarina,Venda 159.000 €,,45 m2 ,- 
+203,Venda Terreno,Venda 160.000 €,,560 m2 ,- 
+204,Loja Maia Centro com Garagem Dupla,Venda 160.000 €,,143 m2 ,- 
+205,T0 Novo Matosinhos,Venda 160.000 €,,46 m2 ,- 
+206,T0 Novo Matosinhos,Venda 160.000 €,,45 m2 ,2 
+207,T0 Novo Matosinhos,Venda 160.000 €,,43 m2 ,- 
+208,T0 Novo Matosinhos,Venda 160.000 €,,40 m2 ,3 
+209,Loja para restauração Prelada,Venda 160.000 €,,224 m2 ,- 
+210,Loja duas frentes centro Porto,Venda 160.000 €,,326 m2 ,- 
+211,T1 Duplex Novo Leça da Palmeira,Venda 160.000 €,,71 m2 ,- 
+212,T3+1 Vila de Conde,Venda 161.000 €,,125 m2 ,- 
+213,Venda Terreno,Venda 163.000 €,,225 m2 ,- 
+214,Venda Terreno,Venda 165.000 €,,1.950 m2 ,- 
+215,Loja / Escritório ao Pinheiro Manso,Venda 165.000 €,,85 m2 ,- 
+216,T0 Novo Matosinhos,Venda 165.000 €,,43 m2 ,1 
+217,Terreno Chantre para moradia 3 frentes,Venda 165.000 €,,458 m2 ,- 
+218,Escritório em Ermesinde,Venda 165.000 €,,181 m2 ,- 
+219,"Loja para restauração Sobrado, valongo",Venda 165.000 €,,236 m2 ,- 
+220,T3 Perafita/Freixieiro,Venda 165.000 €,,122 m2 ,- 
+221,T1 Novo Cedofeita,Venda 165.000 €,,38 m2 ,- 
+222,T3 Maia,Venda 165.000 €,,123 m2 ,- 
+223,Excelente loja em Paranhos,Venda 165.000 €,,164 m2 ,- 
+224,Moradia T2 Francos,Venda 167.500 €,,110 m2 ,- 
+225,Moradia T3 Rio Tinto,Venda 170.000 €,,160 m2 ,3 
+226,Terreno  Lousada,Venda 171.000 €,,13.640 m2 ,5 
+227,Loja Cidade da Maia,Venda 172.000 €,,300 m2 ,- 
+228,T3 Baguim do Monte,Venda 172.500 €,,130 m2 ,- 
+229,Andar - moradia T3 - Maia,Venda 175.000 €,,150 m2 ,- 
+230,T2 Centro Senhora da Hora,Venda 175.000 €,,107 m2 ,- 
+231,Loja com terraço Porto próximo metro,Venda 176.000 €,,324 m2 ,2 
+232,Loja S. Mamede de Infesta,Venda 176.000 €,,200 m2 ,- 
+233,T2 transformado em T3 S. Mamede Infesta,Venda 180.000 €,,95 m2 ,- 
+234,T2 Porto junto á Constituição,Venda 180.000 €,,60 m2 ,- 
+235,Loja ou escritório em Francos,Venda 185.000 €,,158 m2 ,- 
+236,T3+1 S. Mamede de Infesta - Monte Burgos,Venda 185.000 €,,115 m2 ,- 
+237,Moradia V3 Campanhã,Venda 190.000 €,,60 m2 ,- 
+238,T3 Dúplex Matosinhos,Venda 190.000 €,,110 m2 ,- 
+239,"T2 Triplex, Paranhos",Venda 190.000 €,,78 m2 ,- 
+240,T3 S. Cosme todo renovado,Venda 194.000 €,,115 m2 ,- 
+241,Trespasse de Pão Quente em Perafita,Trespasse 195.000 €,,150 m2 ,- 
+242,T3 Totalmente Renovado Leça da Palmeira,Venda 195.000 €,,138 m2 ,- 
+243,T3 Perafita junto ao Mar,Venda 195.000 €,,132 m2 ,- 
+244,T2 Lavra Agudela,Venda 195.000 €,,92 m2 ,- 
+245,"T1 Marques, Mobilado e equipado c/ garagem",Venda 196.000 €,,76 m2 ,- 
+246,"T3 Ermesinde, Santa Rita - Novo",Venda 196.800 €,,120 m2 ,- 
+247,T2 Moreira mobilado e equipado,Venda 197.000 €,,100 m2 ,- 
+248,Moradia para recuperar Jovim,Venda 198.400 €,,292 m2 ,- 
+249,Moradia  T3 São Roque da Lameira,Venda 198.500 €,,253 m2 ,- 
+250,Loja em Leça da Palmeira,Venda 200.000 €,,200 m2 ,4 
+251,Excelente T3+1 ao Luso Francês,Venda 200.000 €,,115 m2 ,2 
+252,2 Lotes Terrenos Sra. Hora,Venda 200.000 €,,250 m2 ,- 
+253,Venda Escritório,Venda 202.400 €,,185 m2 ,- 
+254,Escritório Porto,Venda 209.000 €,,152 m2 ,- 
+255,Bar / Dancing Club / Restaurante para Trespasse em Valongo,Trespasse 210.000 €,,400 m2 ,3 
+256,T1 Novo Paranhos com Terraço - Universidades,Venda 212.500 €,,72 m2 ,- 
+257,T2 Novo Ramalde,Venda 214.000 €,,103 m2 ,5 
+258,Venda Terreno,Venda 215.000 €,,2.400 m2 ,- 
+259,Moradia T4 Povoa Varzim,Venda 219.000 €,,400 m2 ,- 
+260,T4 Recuado Campanhã,Venda 219.000 €,,170 m2 ,5 
+261,Residencial junto ao rio Douro,Venda 220.000 €,,286 m2 ,- 
+262,Venda Terreno,Venda 225.000 €,,0 m2 ,- 
+263,Moradia V6 Vila Nova de Cerveira,Venda 225.000 €,,500 m2 ,- 
+264,"Moradia V3 Canidelo, Vila do Conde",Venda 225.000 €,,340 m2 ,- 
+265,Loja Santa Catarina junto ao Marques,Venda 226.100 €,,342 m2 ,- 
+266,T3 novos Árvore Vila de Conde,Venda 227.450 €,,113 m2 ,- 
+267,T2 novos Árvore Vila de Conde,Venda 227.500 €,,100 m2 ,- 
+268,Terreno Leça do Balio,Venda 230.000 €,,823 m2 ,- 
+269,Moradia T3 remodelada ao Maiashopping,Venda 235.000 €,,140 m2 ,- 
+270,T3 Maia Vermoim,Venda 235.000 €,,104 m2 ,- 
+271,Moradia V4 Vila Nova de Gaia,Venda 237.500 €,,274 m2 ,- 
+272,Moradias t4 Jovim,Venda 240.000 €,,280 m2 ,- 
+273,T2 Duplex Cedofeita,Venda 242.000 €,,87 m2 ,- 
+274,"T2 Novos Paranhos com terraço ou Varanda, Ao Hospital São João",Venda 242.500 €,,91 m2 ,- 
+275,T1 Kitchenette à Rotunda Boavista,Venda 245.000 €,,62 m2 ,- 
+276,T3 Dúplex Porto,Venda 248.000 €,,154 m2 ,- 
+277,Loja Maia,Venda 249.000 €,,188 m2 ,- 
+278,T2 Vila Nova de Gaia,Venda 250.000 €,,52 m2 ,- 
+279,Terreno com vistas Douro,Venda 250.000 €,,2.000 m2 ,- 
+280,Terreno para construção de Armazém,Venda 250.000 €,,953 m2 ,- 
+281,Loja open space Marques,Venda 252.800 €,,395 m2 ,- 
+282,Loja Lordelo do Ouro,Venda 260.000 €,,150 m2 ,- 
+283,Loja ou Armazém Centro Porto retoma de Banco,Venda 260.000 €,,240 m2 ,- 
+284,T1Novo com Jardim Cedofeita,Venda 260.000 €,,42 m2 ,- 
+285,Lojas Centro da Maia,Venda 260.000 €,,129 m2 ,- 
+286,T3 Matosinhos Sul,Venda 265.000 €,,110 m2 ,- 
+287,T3 Bonfim,Venda 265.000 €,,158 m2 ,- 
+288,Loja para Restauração ou Clinica Lavra,Venda 265.100 €,,283 m2 ,- 
+289,"Loja Foz, Porto",Venda 274.000 €,,118 m2 ,- 
+290,Moradia 4 frentes Águas Santas,Venda 275.000 €,,281 m2 ,- 
+291,Moradia Gueifães,Venda 275.000 €,,200 m2 ,- 
+292,Moradia T3 Águas Santas,Venda 279.000 €,,287 m2 ,- 
+293,T4 Novo Centro da Maia,Venda 280.000 €,,165 m2 ,- 
+294,TERRENO Povoa Do Varzim,Venda 283.700 €,,- ,- 
+295,Loja com mezzanine  Porto Campo Alegre Renovada,Venda 288.750 €,,146 m2 ,- 
+296,T3 Novo Lavra,Venda 292.300 €,,113 m2 ,- 
+297,T3 de Luxo Maia - condominio de pretigio,Venda 295.000 €,,150 m2 ,- 
+298,Andar Moradia  T3 Novo Perafita,Venda 295.000 €,,115 m2 ,- 
+299,Loja de 2 pisos Vila Nova de Gaia,Venda 302.000 €,,204 m2 ,- 
+300,Moradia T5 Vila Nova da Telha,Venda 305.000 €,,346 m2 ,3 
+301,T3 Póvoa de Varzim,Venda 305.000 €,,100 m2 ,- 
+302,T2+1 Matosinhos,Venda 315.000 €,,124 m2 ,- 
+303,T2 Av. da Boavista,Venda 315.000 €,,135 m2 ,- 
+304,Moradia na Maia,Venda 315.000 €,,336 m2 ,- 
+305,"Moradia V4 Sra. da Hora, Metro",Venda 320.000 €,,220 m2 ,- 
+306,T2 Dúplex Novo Cedofeita,Venda 320.000 €,,93 m2 ,- 
+307,Venda Armazém,Venda 325.000 €,,1.462 m2 ,- 
+308,Loja em 2 pisos com duas frentes,Venda 325.000 €,,1.082 m2 ,- 
+309,Armazém -Leça do Balio saida da Via Norte,Venda 325.000 €,,785 m2 ,- 
+310,Moradia V4 Terrea Lavra,Venda 325.000 €,,250 m2 ,- 
+311,Loja ao Marquês,Venda 328.800 €,,385 m2 ,- 
+312,T2 Novo com Jardim Cedofeita,Venda 330.000 €,,98 m2 ,- 
+313,T3 Novo Paranhos Novo - Polo Universitario,Venda 330.500 €,,137 m2 ,- 
+314,Moradia V3 Folgosa,Venda 335.000 €,,351 m2 ,- 
+315,Terreno para construção de Moradia,Venda 337.500 €,,869 m2 ,- 
+316,Armazém  com 3 pisos e logradouro,Venda 339.000 €,,1.743 m2 ,- 
+317,Terreno para construção em altura Maia,Venda 340.000 €,,352 m2 ,2 
+318,Venda Terreno,Venda 345.000 €,,408 m2 ,- 
+319,"Moradia V3 Moreira, Maia",Venda 345.000 €,,414 m2 ,- 
+320,Moradia   4 frentes Labruge,Venda 345.000 €,,270 m2 ,- 
+321,Andar Moradia  T3+2 Novo Perafita,Venda 345.000 €,,150 m2 ,- 
+322,Loja para comercio e serviços próximo Rio Douro,Venda 348.000 €,,248 m2 ,- 
+323,Armazém Industrial Paredes com logradouro,Venda 348.400 €,,1.166 m2 ,- 
+324,T4 de luxo em condominio fechado,Venda 349.000 €,,152 m2 ,- 
+325,Moradia V4 Moreira Maia,Venda 349.500 €,,200 m2 ,
+326,Moradia T4+1 Castêlo da Maia,Venda 350.000 €,,312 m2 ,
+327,Terreno para 72 lotes Águas Santas,Venda 357.300 €,,30.000 m2 ,
+328,Terreno p/ construção de Edifício na Maia - Chantre,Venda 365.000 €,,457 m2 ,
+329,Moradia T4 Milheirós,Venda 371.525 €,,240 m2 ,
+330,Restaurante em Vila Nova de Gaia,Venda 373.000 €,,209 m2 ,
+331,Loja junto à casa da Musica com terraço e jardim,Venda 375.000 €,,380 m2 ,
+332,Moradia T3 Leça do Balio,Venda 380.000 €,,500 m2 ,
+333,"Loja Lustosa, Lousada",Venda 385.000 €,,1.077 m2 ,
+334,T3 Novo Lavra,Venda 389.580 €,,175 m2 ,
+335,Moradia T4 Chantre,Venda 390.000 €,,450 m2 ,
+336,Moradia 4 frentes Alfena,Venda 390.000 €,,360 m2 ,
+337,"T2 Ribeira, Porto",Venda 390.000 €,,108 m2 ,
+338,T3 Boavista,Venda 395.000 €,,110 m2 ,
+339,Venda Terreno,Venda 400.000 €,,0 m2 ,
+340,Venda Armazém,Venda 400.000 €,,1.300 m2 ,
+341,"T4 Lavra, Praia - Condominio Fechado",Venda 400.000 €,,230 m2 ,
+342,Moradias com projecto p/reconstruir e ampliar em Miragaia,Venda 410.000 €,,294 m2 ,
+343,T4 Lordelo do Ouro,Venda 415.000 €,,171 m2 ,
+344,T3 Recuado Leça da Palmeira,Venda 425.000 €,,150 m2 ,
+345,Loja Porto Com dois pisos e ampla montra.,Venda 430.000 €,,305 m2 ,
+346,Terreno Leça da Palmeira,Venda 450.000 €,,1.273 m2 ,
+347,Loja multiusos 2 pisos Porto Centro,Venda 453.000 €,,1.079 m2 ,
+348,T3 Recuado Novo Matosinhos,Venda 455.000 €,,142 m2 ,
+349,Venda Armazém,Venda 460.000 €,,600 m2 ,
+350,Moradia V9 Paranhos,Venda 465.000 €,,188 m2 ,
+351,Venda Armazém,Venda 470.000 €,,700 m2 ,
+352,Terreno Custóias,Venda 470.000 €,,2.500 m2 ,
+353,Armazém industrial em Ermesinde em Excelente estado de conservação.,Venda 475.000 €,,700 m2 ,
+354,T3 Recuado Novo Lavra,Venda 485.000 €,,163 m2 ,
+355,Terreno Castêlo da Maia,Venda 490.000 €,,17.100 m2 ,
+356,Excelente T3 Dúplex Boavista,Venda 499.500 €,,150 m2 ,
+357,Terreno Francelos,Venda 500.000 €,,4.540 m2 ,
+358,Loja com dois pisos junto ao Marques,Venda 502.300 €,,496 m2 ,
+359,Armazém Industrial em Rio Tinto,Venda 517.000 €,,1.922 m2 ,
+360,Moradia T4 Custóias,Venda 525.000 €,,350 m2 ,
+361,T4 Novo com Terraço Paranhos - Hospital São João,Venda 529.500 €,,187 m2 ,
+362,Loja Maia Centro Clinica ou Serviços,Venda 543.000 €,,419 m2 ,
+363,T4 à Rotunda Boavista,Venda 545.000 €,,153 m2 ,
+364,Conjunto de 8 estudios junto ao Ismai,Venda 550.000 €,,254 m2 ,
+365,T4 à Rotunda Boavista,Venda 555.000 €,,153 m2 ,
+366,Moradia T3 de Luxo Canidelo,Venda 560.000 €,,238 m2 ,
+367,Escritório Avenida da Boavista,Venda 567.000 €,,403 m2 ,
+368,"Armazém Industrial Campo, Valongo",Venda 580.000 €,,1.461 m2 ,
+369,Escritório Vila Nova de Gaia,Venda 594.000 €,,585 m2 ,
+370,Moradia V4 Lavra,Venda 599.000 €,,360 m2 ,
+371,Armazem industrial Vila Nova de Gaia,Venda 625.000 €,,3.526 m2 ,
+372,Terrenos em Madalena para construção,Venda 627.000 €,,31.000 m2 ,
+373,Terreno em  Campanha.,Venda 637.488 €,,8.503 m2 ,
+374,Terreno - Baguim do Monte - Hab. plurifamiliar,Venda 675.000 €,,2.947 m2 ,
+375,Terreno - Baguim do Monte - Hab. plurifamiliar,Venda 675.000 €,,2.157 m2 ,
+376,Venda Loja,Venda 688.000 €,,1.100 m2 ,
+377,Venda Terreno,Venda 700.000 €,,7.500 m2 ,
+378,Armazém Industrial em Mosteiró,Venda 700.000 €,,2.409 m2 ,
+379,Armazém Freixieiro,Venda 715.000 €,,1.000 m2 ,
+380,Quinta em Vairão Vila de Conde,Venda 745.000 €,,617 m2 ,
+381,Quinta Luxo Maia,Venda 750.000 €,,447 m2 ,
+382,Mansão 4 frentes Malta/Canidelo,Venda 767.000 €,,1.120 m2 ,
+383,Terreno Águas Santas,Venda 770.000 €,,16.827 m2 ,
+384,Armazém Industrial Maia,Venda 800.000 €,,6.469 m2 ,
+385,Terreno  em Águas Santas,Venda 800.000 €,,60.000 m2 ,
+386,Venda Armazém,Venda 820.000 €,,2.000 m2 ,
+387,Espaço multiusos Porto,Venda 900.000 €,,702 m2 ,
+388,Terreno Maia Centro,Venda 900.000 €,,5.900 m2 ,
+389,Quinta de Luxo com Vistas para o Douro,Venda 950.000 €,,429 m2 ,
+390,Escritório Avenida Da Boavista,Venda 980.000 €,,477 m2 ,
+391,Venda Armazém,Venda 1.000.000 €,,1.300 m2 ,
+392,Venda Armazém,Venda 1.000.000 €,,2.300 m2 ,
+393,Quinta Fabulosa Vale de Cambra,Venda 1.000.000 €,,250 m2 ,
+394,T5 de Luxo na Marginal Rio Douro,Venda 1.050.000 €,,290 m2 ,
+395,Armazém industrial Aeroporto,Venda 1.050.000 €,,1.447 m2 ,
+396,Solar Sec XVI com terreno 60000 m2 em Sernancelhe,Venda 1.070.000 €,,1.050 m2 ,
+397,"Terreno em  Aves, Monte da Barca",Venda 1.082.600 €,,45.833 m2 ,
+398,Venda Terreno,Venda 1.100.000 €,,7.800 m2 ,
+399,Armazém industrial com área exterior,Venda 1.155.000 €,,3.025 m2 ,
+400,T4+1 Duplex com piscina na Marginal Rio Douro,Venda 1.200.000 €,,277 m2 ,
+401,Espaço Multiusos Centro Matosinhos,Venda 1.220.000 €,,538 m2 ,
+402,Quinta / Herdade em Oliveira do Douro,Venda 1.290.000 €,,700 m2 ,
+403,Armazém industrial Maia,Venda 1.550.000 €,,4.660 m2 ,
+404,Moradia T4 Foz do Douro,Venda 1.650.000 €,,402 m2 ,
+405,Terreno Rústico ao Aeroporto,Venda 1.716.000 €,,24.523 m2 ,
+406,"Terreno Madalena, V. N. Gaia",Venda 2.000.000 €,,- ,
+407,"Unidade Fabril com vários armazéns e zona administrativa em Nogueira, Maia",Venda 2.200.000 €,,6.160 m2 ,
+408,Escritórios Paranhos com 2 pisos e lugares de garagem,Venda 2.200.000 €,,2.335 m2 ,
+409,Armazém com escritórios e lougradouro,Venda 2.200.000 €,,4.320 m2 ,
+410,Loteamento Antas zona Premium,Venda 2.900.000 €,,869 m2 ,
+411,Venda Terreno,Venda 3.000.000 €,,0 m2 ,
+412,"Quinta de charme Vila do Conde, com grande área exterior",Venda 3.450.000 €,,1.430 m2 ,
+413,Terreno Rústico ao Aeroporto,Venda 5.542.600 €,,79.180 m2 ,
+414,Residência Sénior,Venda 9.000.000 €,,7.258 m2 ,
+415,Terreno Leça do Balio,Venda Preço sob consulta,,580 m2 ,
+416,Armazém Leça do Balio,Arrendamento Preço sob consulta,,751 m2 ,
+417,Escritório Porto,Arrendamento Preço sob consulta,,312 m2 ,
